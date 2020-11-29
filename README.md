@@ -5,4 +5,4 @@ Cook-FridgeAndroid/Cook&Fridge/app/src/main/java/com/example/bddprojet/MainActiv
 
 Le tutoriel de l'application se trouve dans les documents : Rapport-CookFridge.pdf.
 
-Pour ce projet, j'ai réalisé la majeure de la partie IHM et mes deux collègues se sont concentrés sur la BDD.
+Pour ce projet, je me suis concentrée sur l'implémentation de la partie IHM et mes deux collègues ont réalisé la BDD.
